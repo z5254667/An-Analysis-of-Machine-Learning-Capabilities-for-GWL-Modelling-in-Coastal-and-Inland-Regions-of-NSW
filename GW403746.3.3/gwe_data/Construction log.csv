@@ -1,0 +1,4 @@
+"Bore ID","Depth From (m)","Depth To (m)","Top Elevation (m AHD)","Bottom Elevation (m AHD)","Constructiontype","Material","Inner Diameter","Outer Diameter","Property","Property Size","Drill Method"
+"GW403746.3.3",0.0,234.0,105.26,-128.74,"UNK","UNK",,200.0,"UNK",,"ROT"
+"GW403746.3.3",0.0,234.0,105.26,-128.74,"LIN","UNK",78.0,90.0,"UNK",,"UNK"
+"GW403746.3.3",192.0,198.0,-86.74,-92.74,"INLT","UNK",78.0,90.0,"UNK",,"UNK"
